@@ -8,8 +8,8 @@
 ### E-mail : sungyoonhwang3@gmail.com
 ### Language 
 - Korean (Native speaker)
-- English (limited conversation for working and social life)
-- Chinese (limited conversation for daily social life) 
+- English (Limited conversation for working and social life)
+- Chinese (Limited conversation for daily life) 
 - German and Spanish (Limited basic conversation)
 
 
