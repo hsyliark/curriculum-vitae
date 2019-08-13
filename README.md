@@ -6,18 +6,22 @@
 - Language : Korean(Native speaker), English(limited working and social life), Chinese(limited conversation for daily social life) , German and Spanish(Limited basic conversation)
 
 ## Education
+### Formal
 - B.S, Statistics, Hankuk University of Foreign Studies (2009 ~ 2015) 
 - M.S, Statistics, Hankuk University of Foreign Studies (2015 ~ 2017)
+### Informal
+- Course for smart data expert using big data, Ministry of science & ICT (2019.5 ~ 2019.11) 
 
 ## Working
 - Korea Statistics Promotion Institute, researcher (2017.2 ~ 2017.5)
 - National Information Society Agency, researcher (2015.8 ~ 2015.12)
 
-## Interesting things and Skills
+## Skills
 ### R
 - Data handling
 - Programming
 - Statistical analysis
+- Data mining
 ### python
 - Data handling
 - Programming (include Numpy, Pandas)
