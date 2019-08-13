@@ -16,16 +16,16 @@
 ## Education
 
 ### Formal
-- B.S, Statistics, Hankuk University of Foreign Studies 
-- M.S, Statistics, Hankuk University of Foreign Studies (Main topic : Statistical Machine Learning) 
-### Informal
-- Course for smart data expert using big data, Ministry of science & ICT 
+- B.S, Statistics, Hankuk University of Foreign Studies (2009.3 ~ 2015.2) 
+- M.S, Statistics, Graduate schhol of Hankuk University of Foreign Studies (2014.9 ~ 2017.2) (Main topic : Statistical Machine Learning) 
+### Extra
+- Course for smart data expert using big data, Ministry of science & ICT (2019.5 ~ 2019.11) 
 
 
 ## Working
 
-### Korea Statistics Promotion Institute, researcher 
-### National Information Society Agency, researcher 
+- Korea Statistics Promotion Institute, Statistical service team, researcher (2017.2 ~ 2017.5) 
+- National Information Society Agency, Big data education team, participate researcher (2015.8 ~ 2015.12) 
 
 
 ## Skills
@@ -34,12 +34,13 @@
 - Data handling
 - Programming (include algorithm)
 - Statistical analysis
+_ Statistical Machine Learning algorithm
 - Data mining
 ### python
 - Data handling with Numpy, Pandas
 - Programming (include algorithm) 
 - Matplotlib and Seaborn for graphing
-- Machine learning (include Deep Learning) simulation with Keras, TensorFlow
+- Machine Learning (include Deep Learning) simulation with Keras, TensorFlow
 ### SAS
 - Programming (base certificate level)
 - Statistical analysis
