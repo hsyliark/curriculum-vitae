@@ -7,10 +7,10 @@
 ### National : Republic of Korea
 ### E-mail : sungyoonhwang3@gmail.com
 ### Language 
-- Korean(Native speaker)
-- English(limited conversation for working and social life)
-- Chinese(limited conversation for daily social life) 
-- German and Spanish(Limited basic conversation)
+- Korean (Native speaker)
+- English (limited conversation for working and social life)
+- Chinese (limited conversation for daily social life) 
+- German and Spanish (Limited basic conversation)
 
 
 ## Education
