@@ -58,6 +58,12 @@ _ Statistical Machine Learning algorithm
 
 ## Experience
 
-### 
-
+### 2015 The Korean Statistical Society Thesis presentation seminar in Autumn
+- place : Hankuk University of Foreign Studies 
+- period : 2015.11.6. ~ 2015.11.7.
+- Tutorial : Dimension Reduction in Regression with a Notion of Sufficiency
+### 2016 The Korean Statistical Society Thesis presentation seminar in Spring
+- place : Kyeongbuk University
+- period : 2016.5.20. ~ 2016.5.21.
+- Tutorial : A Tutorial on Deep Learning
 
