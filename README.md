@@ -7,10 +7,10 @@
 ### National : Republic of Korea
 ### E-mail : sungyoonhwang3@gmail.com
 ### Language 
-- Korean (Native speaker)
+- Korean(한국어) (Native speaker)
 - English (Limited conversation for working and social life)
-- Chinese (Limited conversation for daily life) 
-- German and Spanish (Limited basic conversation)
+- Chinese(中文) (Limited conversation for daily life) 
+- German(Deutsch) and Spanish(Español) (Limited basic conversation)
 
 
 ## Education
@@ -34,7 +34,7 @@
 - Data handling
 - Programming (include algorithm)
 - Statistical analysis
-_ Statistical Machine Learning algorithm
+- Statistical Machine Learning algorithm
 - Data mining
 ### python
 - Data handling with Numpy, Pandas
