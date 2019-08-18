@@ -58,6 +58,10 @@
 
 ## Experience
 
+### 2015 The Korean Statistical Society Thesis presentation seminar in Spring
+- place : Chungbuk University
+- period : 2015.5.29. ~ 2015.5.30.
+- Tutorial : Tutorials on Mixture Models
 ### 2015 The Korean Statistical Society Thesis presentation seminar in Autumn
 - place : Hankuk University of Foreign Studies 
 - period : 2015.11.6. ~ 2015.11.7.
@@ -66,4 +70,9 @@
 - place : Kyeongbuk University
 - period : 2016.5.20. ~ 2016.5.21.
 - Tutorial : A Tutorial on Deep Learning
+### 2016 The Korean Statistical Society Thesis presentation seminar in Autumn
+- place : Statistics Korea
+- period : 2016.11.4. ~ 2016.11.5.
+- Tutorial : Bayesian Statistics and Computation
+  
 
