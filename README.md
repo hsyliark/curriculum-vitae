@@ -26,6 +26,7 @@
 
 - Korea Statistics Promotion Institute, Statistical service team, researcher (2017.2 ~ 2017.5) 
 - National Information Society Agency, Big data education team, participate researcher (2015.8 ~ 2015.12) 
+- Ministry of Environment, National Institute of Environmental Research, environmental researcher (2019.9 ~ currently)
 
 
 ## Skills
