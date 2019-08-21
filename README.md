@@ -13,7 +13,7 @@
 - German(Deutsch) and Spanish(Español) (Limited basic conversation)
 
 
-## Education
+## Education 
 
 ### Formal
 - B.S, Statistics, Hankuk University of Foreign Studies (2009.3 ~ 2015.2) 
