@@ -17,16 +17,16 @@
 
 ### Formal
 - B.S, Statistics, Hankuk University of Foreign Studies (2009.3 ~ 2015.2) 
-- M.S, Statistics, Graduate schhol of Hankuk University of Foreign Studies (2014.9 ~ 2017.2) (Main topic : Statistical Machine Learning) 
+- M.S, Statistics, Graduate school of Hankuk University of Foreign Studies (2014.9 ~ 2017.2) (Main research topic : Statistical Machine Learning) 
 ### Extra
 - Course for smart data expert using big data, Ministry of science & ICT (2019.5 ~ 2019.11) 
 
 
 ## Working
 
+- Ministry of Environment, National Institute of Environmental Research, environmental research official (2019.9 ~ currently)
 - Korea Statistics Promotion Institute, Statistical service team, researcher (2017.2 ~ 2017.5) 
 - National Information Society Agency, Big data education team, participate researcher (2015.8 ~ 2015.12) 
-- Ministry of Environment, National Institute of Environmental Research, environmental researcher (2019.9 ~ currently)
 
 
 ## Skills 
