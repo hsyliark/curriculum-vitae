@@ -1,7 +1,7 @@
 # résumé   
 
 
-## Profile 
+## Profile  
 
 ### Name : Hwang Seong-Yun 
 ### National : Republic of Korea
