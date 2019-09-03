@@ -6,6 +6,7 @@
 ### Name : Hwang Seong-Yun 
 ### National : Republic of Korea
 ### E-mail : sungyoonhwang3@gmail.com
+### Identity : Official
 ### Language 
 - Korean(한국어) (Native speaker)
 - English (Limited conversation for working and social life)
