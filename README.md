@@ -6,7 +6,7 @@
 ### Name : Hwang Seong-Yun 
 ### National : Republic of Korea
 ### E-mail : sungyoonhwang3@gmail.com
-### Identity : Official
+### Identity : Environmental Research Official (Republic of Korea Ministry of Environment, National Institute of Environmental Research)
 ### Language 
 - Korean(한국어) (Native speaker)
 - English (Limited conversation for working and social life)
@@ -26,7 +26,7 @@
 
 ## Working
 
-- Ministry of Environment, National Institute of Environmental Research, environmental research official (2019.9 ~ currently)
+- Republic of Korea Ministry of Environment, National Institute of Environmental Research, environmental research official (2019.9 ~ currently(2039.9 ~))
 - Korea Statistics Promotion Institute, Statistical service team, researcher (2017.2 ~ 2017.5) 
 - National Information Society Agency, Big data education team, participate researcher (2015.8 ~ 2015.12)
 - Republic of Korea Army, 35 division (military service) (2009.2 ~ 2010.12)
