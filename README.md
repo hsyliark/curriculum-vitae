@@ -18,8 +18,8 @@
 
 ### Formal
 - B.S, Statistics, Hankuk University of Foreign Studies (2009.3 ~ 2015.2) 
-- M.S, Statistics, Graduate school of Hankuk University of Foreign Studies (2014.9 ~ 2017.2) (Main research topic : Statistical Machine Learning) 
-- M.S and Ph.D Intergrated course (Computing Statistics) -> preparing
+- M.S, Statistics, Graduate school of Hankuk University of Foreign Studies (2014.9 ~ 2017.2) 
+- M.S and Ph.D Intergrated course, Statistics, Graduate school of Jeonbuk National University (2020.9 ~ 2026.2) -> preparing
 ### Extra
 - Course for smart data expert using big data, Ministry of science & ICT (2019.5 ~ 2019.11) 
 
