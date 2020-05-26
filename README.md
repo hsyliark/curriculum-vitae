@@ -56,7 +56,8 @@
 - A study on efficiency of kernel ridge logistic regression classification using ensemble method (Master's thesis, HUFS Graduate school, 2017.2) -> (link : http://dcollection.hufs.ac.kr/jsp/common/DcLoOrgPer.jsp?sItemId=000000014533)
 ### Journal 
 - Ensemble approach for improving prediction in kernel regression and classification (Communications for Statistical Applications and Methods 2016, Vol. 23, No. 4, 355~362) -> (link : http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355)
-- Evaluation and Grade Classification of Water Quality in Nakdong River Tributary Streams Using Statistical Techniques () -> (link :) 
+- Evaluation and Grade Classification of Water Quality in Nakdong River Tributary Streams Using Statistical Techniques, Republic of Korea () -> (link :) 
+- A study on evaluate water quality using LASSO in Yeongsan River, Republic of Korea () -> (link :)
 
 
 ## Experience
