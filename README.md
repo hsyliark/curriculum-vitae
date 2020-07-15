@@ -18,7 +18,7 @@
 
 ### Formal
 - B.S and M.S, Statistics, Hankuk University of Foreign Studies (2009.3 ~ 2017.2) 
-- Ph.D, Statistics, Jeonbuk National University (2020.9 ~ 2023.2) -> preparing
+- Ph.D, Statistics, Jeonbuk National University (2020.9 ~ 2023.2) 
 - MBA, Artificial Intelligence and Big Data, Kookmin University -> preparing
 ### Extra
 - Course for smart data expert using big data, Ministry of science & ICT (2019.5 ~ 2019.11) 
