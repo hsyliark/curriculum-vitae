@@ -26,7 +26,7 @@
 
 ## Working
 
-- Republic of Korea Ministry of Environment, National Institute of Environmental Research, environmental research official (2019.9 ~ currently(2050.9 ~))
+- Republic of Korea Ministry of Environment, National Institute of Environmental Research, environmental research official (2019.9 ~ currently(2050.9))
 - Korea Statistics Promotion Institute, Statistical service team, researcher (2017.2 ~ 2017.5) 
 - National Information Society Agency, Big data education team, participate researcher (2015.8 ~ 2015.12)
 - Republic of Korea Army, 35 division (military service) (2009.2 ~ 2010.12)
@@ -56,7 +56,7 @@
 - A study on efficiency of kernel ridge logistic regression classification using ensemble method (Master's thesis, HUFS Graduate school, 2017.2) -> (link : http://dcollection.hufs.ac.kr/jsp/common/DcLoOrgPer.jsp?sItemId=000000014533)
 ### Journal 
 - Ensemble approach for improving prediction in kernel regression and classification (Communications for Statistical Applications and Methods 2016, Vol. 23, No. 4, 355~362) -> (link : http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355)
-- Evaluation and Grade Classification of Water Quality in Nakdong River Tributary Streams using Statistical Techniques, Republic of Korea () -> (link :) 
+- Identification of High-Priority Tributaries for Water Quality Management in Nakdong River using Neural Networks and Grade Classification (Multidisciplinary Digital Publishing Institute) -> (link :) 
 - A study on evaluate water quality in Yeongsan River using Least Absolute Shrinkage and Selection Operator(LASSO) Techniques, Republic of Korea () -> (link :)
 - Spatio-Temporal analysis of Water Quality in Nakdong River using Clustering Techniques, Republic of Korea () -> (link :)  
 
