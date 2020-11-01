@@ -58,7 +58,8 @@
 - Ensemble approach for improving prediction in kernel regression and classification (Communications for Statistical Applications and Methods 2016, Vol. 23, No. 4, 355~362) -> (link : http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355)
 - Identification of High-Priority Tributaries for Water Quality Management in Nakdong River using Neural Networks and Grade Classification (Multidisciplinary Digital Publishing Institute) -> (link :) 
 - A study on evaluate water quality in Yeongsan River using Least Absolute Shrinkage and Selection Operator(LASSO) Techniques, Republic of Korea () -> (link :)
-- Spatio-Temporal analysis of Water Quality in Nakdong River using Clustering Techniques, Republic of Korea () -> (link :)  
+- A Study on the Evaluation Method for the Achievement Rate of Target Water Quality in Nakdong River using Flow Data at Intervals of Eight Days (Weekly) (
+Environmental Technology & Innovation) -> (link :)  
 
 
 ## Experience
