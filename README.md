@@ -54,18 +54,19 @@
 
 ### Master's Degree
 - A study on efficiency of kernel ridge logistic regression classification using ensemble method (Master's thesis, HUFS Graduate school, 2017.2) -> (link : http://dcollection.hufs.ac.kr/jsp/common/DcLoOrgPer.jsp?sItemId=000000014533)
-### Journal 
-- Ensemble approach for improving prediction in kernel regression and classification (Communications for Statistical Applications and Methods 2016, Vol. 23, No. 4, 355~362) -> (link : http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355)
-- Identification of High-Priority Tributaries for Water Quality Management in Nakdong River using Neural Networks and Grade Classification (Multidisciplinary Digital Publishing Institute) -> (link :) 
-- A study on evaluate water quality in Yeongsan River using Least Absolute Shrinkage and Selection Operator(LASSO) Techniques, Republic of Korea () -> (link :)
+### Journal (https://orcid.org/)
+- Ensemble approach for improving prediction in kernel regression and classification (Communications for Statistical Applications and Methods 2016, Vol. 23, No. 4, 355~362) -> (link : http://www.csam.or.kr/journal/view.html?doi=10.5351/CSAM.2016.23.4.355) (http://www.csam.or.kr/main.html)
+- Identification of High-Priority Tributaries for Water Quality Management in Nakdong River using Neural Networks and Grade Classification (Multidisciplinary Digital Publishing Institute) -> (link :) (https://sciprofiles.com/) 
 - A Study on the Evaluation Method for the Achievement Rate of Target Water Quality in Nakdong River using Flow Data at Intervals of Eight Days (Weekly) (
-Environmental Technology & Innovation) -> (link :)  
+Environmental Technology & Innovation) -> (link :) (https://www.editorialmanager.com/eti/Default.aspx?pg=login.asp&username=&a=r)  
+- A study on evaluate water quality in Yeongsan River using Least Absolute Shrinkage and Selection Operator(LASSO) Techniques, Republic of Korea () -> (link :)
+- Analysis of spatio-temporal variation in river water quality using statistical techniques: A case study in the Nakdong River, Republic of Korea () -> (link :) 
 
 
 ## Experience
 
 ### 2015 The Korean Statistical Society Thesis presentation seminar in Spring
-- place : Chungbuk University
+- place : Chungbuk National University
 - period : 2015.5.29. ~ 2015.5.30.
 - Tutorial : Tutorials on Mixture Models
 ### 2015 The Korean Statistical Society Thesis presentation seminar in Autumn
@@ -73,7 +74,7 @@ Environmental Technology & Innovation) -> (link :)
 - period : 2015.11.6. ~ 2015.11.7.
 - Tutorial : Dimension Reduction in Regression with a Notion of Sufficiency
 ### 2016 The Korean Statistical Society Thesis presentation seminar in Spring
-- place : Kyeongbuk University
+- place : Kyeongbuk National University
 - period : 2016.5.20. ~ 2016.5.21.
 - Tutorial : A Tutorial on Deep Learning
 ### 2016 The Korean Statistical Society Thesis presentation seminar in Autumn
